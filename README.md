@@ -1,5 +1,9 @@
 # Student-Count-Analysis-Dashboard
 
+### Dashboard Link :https://drive.google.com/drive/folders/1XdqE2raygFnWeWcfnAWP4vK-i5PklJNP?usp=sharing
+
+
+
 ## Problem Statement
 This dashboard helps in analyzing student well-being and academic performance factors. It provides insights into how variables such as sleep duration, study hours, study satisfaction, academic pressure, and financial stress correlate with student count. By visualizing these relationships, institutions can identify patterns that affect student health and learning outcomes, and take corrective measures to improve student support systems.
 
